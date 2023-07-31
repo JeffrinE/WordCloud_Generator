@@ -6,17 +6,21 @@ If PNG doesn't work try JPEG. Using image files with higher resolution is sugges
 
 Trial run:
 Address of file :C:\Users\<user_name>\WordCloud_Generator\Apples.txt
+
 Address of Image :C:\Users\<user_name>\WordCloud_Generator\Apple_sillohoutte.jpg
+
 Enter significant colour :Black
 
 WordCloud:
 Colour:Black
+
 File_Name:C:\Users\<user_name>\WordCloud_Generator\Apples.txt
+
 Image_Name:Apple_sillohoutte.jpg
 
-Apple_sillouhoutte:
+
 ![Apple_sillouhoutte](https://github.com/JeffrinE/WordCloud_Generator/assets/141047292/614b318c-3c65-4f57-94f6-c25e5a0d3216)
 
-Figure:
+
 ![Apple](https://github.com/JeffrinE/WordCloud_Generator/assets/141047292/4778ff7d-4da9-4426-aa86-4d7abeafee55)
 
