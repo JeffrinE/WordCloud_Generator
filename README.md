@@ -4,14 +4,18 @@ Introducing our new word cloud generator! This program allows you to create beau
 If error occurs try entering the file address and image address without quotes at ends.
 If PNG doesn't work try JPEG. Using image files with higher resolution is suggested.
 
+
 Trial run:
+
 Address of file :C:\Users\<user_name>\WordCloud_Generator\Apples.txt
 
 Address of Image :C:\Users\<user_name>\WordCloud_Generator\Apple_sillohoutte.jpg
 
 Enter significant colour :Black
 
+
 WordCloud:
+
 Colour:Black
 
 File_Name:C:\Users\<user_name>\WordCloud_Generator\Apples.txt
